@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Event",
+                "referenceId": "EventRef1"
+            },
+            "Subject": "行動の件名です1",
+            "ACTIVITYDATETIME": "2021-04-12T00:00:00.000Z",
+            "STARTDATETIME": "2021-04-12T00:00:00.000Z",
+            "ENDDATETIME": "2021-04-12T01:00:00.000Z",
+            "EVENTSUBTYPE": "Event",
+            "LOCATION": "ここは場所欄です1",
+            "SHOWAS": "Busy"
+        },
+        {
+            "attributes": {
+                "type": "Event",
+                "referenceId": "EventRef2"
+            },
+            "Subject": "行動の件名です1",
+            "ACTIVITYDATETIME": "2021-04-12T12:00:00.000Z",
+            "STARTDATETIME": "2021-04-12T12:00:00.000Z",
+            "ENDDATETIME": "2021-04-12T13:00:00.000Z",
+            "EVENTSUBTYPE": "Event",
+            "LOCATION": "ここは場所欄です2",
+            "SHOWAS": "Busy"
+        }    
+     ]
+}

@@ -1,0 +1,53 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FIRSTNAME": "信吾",
+            "LASTNAME": "富田",
+            "MAILINGCOUNTRY": "日本",
+            "MAILINGPOSTALCODE": "150-0020",
+            "MAILINGSTATE": "東京都",
+            "MAILINGCITY": "新宿区",
+            "MAILINGSTREET": "猿楽町2-6-10 新橋小川ﾋﾞﾙ",
+            "PHONE": "03-5457-1200",
+            "TITLE": "社長",
+            "DESCRIPTION": "弊社の製品に非常に理解をもっているキーパーソン。"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FIRSTNAME": "由紀子",
+            "LASTNAME": "近藤",
+            "MAILINGCOUNTRY": "日本",
+            "MAILINGPOSTALCODE": "150-0020",
+            "MAILINGSTATE": "東京都",
+            "MAILINGCITY": "新宿区",
+            "MAILINGSTREET": "猿楽町2-6-10 新橋小川ﾋﾞﾙ",
+            "PHONE": "03-5457-1200",
+            "TITLE": "部長",
+            "DESCRIPTION": "テストです。"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "FIRSTNAME": "太郎",
+            "LASTNAME": "テスト",
+            "MAILINGCOUNTRY": "日本",
+            "MAILINGPOSTALCODE": "150-0020",
+            "MAILINGSTATE": "東京都",
+            "MAILINGCITY": "新宿区",
+            "MAILINGSTREET": "猿楽町2-6-10 新橋小川ﾋﾞﾙ",
+            "PHONE": "03-5457-1200",
+            "TITLE": "部長",
+            "DESCRIPTION": "テストです。",
+            "ACCOUNTID":"idxxx"
+        }
+     ]
+}

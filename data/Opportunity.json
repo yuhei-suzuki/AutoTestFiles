@@ -1,0 +1,34 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef1"
+            },
+            "AMOUNT": "1234567890",
+            "CLOSEDATE": "2021-04-30",
+            "DESCRIPTION": "説明欄です1",
+            "NEXTSTEP": "次のステップ欄です1",
+            "NAME": "テスト商談00001",
+            "LEADSOURCE": "Advertisement",
+            "PROBABILITY": "10",
+            "STAGENAME": "コンタクト",
+            "TYPE": "Existing Business"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef2"
+            },
+            "AMOUNT": "567890000",
+            "CLOSEDATE": "2021-04-30",
+            "DESCRIPTION": "説明欄です2",
+            "NEXTSTEP": "次のステップ欄です2",
+            "NAME": "テスト商談00002",
+            "LEADSOURCE": "Employee Referral",
+            "PROBABILITY": "20",
+            "STAGENAME": "評価",
+            "TYPE": "Existing Business"
+        }    
+     ]
+}

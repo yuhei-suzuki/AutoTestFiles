@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef1"
+            },
+            "Name": "Process Automated"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef2"
+            },
+            "Name": "Data.com Clean"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef3"
+            },
+            "Name": "User Integration"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef4"
+            },
+            "Name": "Agent Service"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef5"
+            },
+            "Name": "User Security"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef6"
+            },
+            "Name": "User User"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef7"
+            },
+            "Name": "Smith John"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef8"
+            },
+            "Name": "Amos Jon"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef9"
+            },
+            "Name": "Platform Integration User"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef10"
+            },
+            "Name": "Chatter Expert"
+        }
+    ]
+}

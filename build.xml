@@ -1,0 +1,25 @@
+<project name="Sample usage of Salesforce Ant tasks" default="test" basedir="." xmlns:sf="antlib:com.salesforce">
+
+  <!-- <property file="build.properties"/> -->
+  <property file="build.properties"/>
+  <property environment="env"/>
+
+ <taskdef resource="com/salesforce/antlib.xml" uri="antlib:com.salesforce">
+        <classpath>
+            <pathelement location="./ant-salesforce.jar" />        	
+        </classpath>
+    </taskdef>
+	
+    <!-- デプロイ（※package.xmlは正しく記述すること） -->
+    <target name="deploy">
+      <!-- <echo message="Starting deploy" />
+      <echo message="Login ID: ${sf.username}" />
+      <echo message="Deploy Root: ${deployRoot}" /> -->
+      <sf:deploy
+        username="${sf.username}"
+        password="${sf.password}"
+        serverurl="${sf.serverurl}"
+        deployroot="unpackaged"
+        ignoreWarnings="true" />
+    </target>
+</project>

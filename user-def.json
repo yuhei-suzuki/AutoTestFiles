@@ -1,0 +1,11 @@
+{
+    "LastName": "user3",
+    "Email": "tester3@up.stest1-3",
+    "Alias": "s-u3",
+    "TimeZoneSidKey": "America/Denver",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "標準ユーザ",
+    "generatePassword": true
+}

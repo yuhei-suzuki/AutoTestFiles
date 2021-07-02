@@ -1,0 +1,26 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef1"
+            },
+            "Subject": "インポート確認ToDo1",
+            "TASKSUBTYPE": "Task",
+            "STATUS": "Not Started",
+            "PRIORITY": "Normal",
+            "DESCRIPTION": "コメントです"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef2"
+            },
+            "Subject": "インポート確認ToDo2",
+            "TASKSUBTYPE": "Task",
+            "STATUS": "Not Started",
+            "PRIORITY": "Normal",
+            "DESCRIPTION": "コメントです"
+        }    
+     ]
+}

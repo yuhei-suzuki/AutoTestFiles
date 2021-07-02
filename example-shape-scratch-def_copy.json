@@ -1,0 +1,23 @@
+{
+    "orgName": "Scratch Org with Shape",
+    "sourceOrg": "00D5h0000015qkP",
+    "features": ["EnableSetPasswordInApi"],
+    "settings": {
+      "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+      },
+      "mobileSettings": {
+        "enableS1EncryptedStoragePref2": false
+      },
+      "ChatterSettings": {
+        "enableChatter": true
+      },
+      "RemoteSiteSetting": {
+        "disableProtocolSecurity": true,
+  　　   "description": "oggdevの設定です",
+  　　   "fullName": "oggdev",
+  　　   "isActive": true,
+  　　   "url": "https://ogg-dev.orkney.jp"
+      }
+    }
+}

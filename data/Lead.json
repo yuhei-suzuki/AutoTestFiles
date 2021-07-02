@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef1"
+            },
+            "LASTNAME": "名前リード1",
+            "FIRSTNAME": "テスト1",
+            "COMPANY": "株式会社会社テストリード1",
+            "STATE": "東京都",
+            "CITY": "杉並区",
+            "STREET": "高円寺南5-24-21",
+            "PHONE": "03-1122-3344"
+        },
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef2"
+            },
+            "LASTNAME": "名前リード2",
+            "FIRSTNAME": "テスト2",
+            "COMPANY": "株式会社会社テストリード2",
+            "STATE": "東京都",
+            "CITY": "杉並区",
+            "STREET": "高円寺南5-25-21",
+            "PHONE": "03-2211-4433"
+        }    
+     ]
+}
